@@ -1,0 +1,82 @@
+#-------------------------------
+# General Site Settings
+
+title: Do Something Good
+description: UI Design // Graphic Design // Visual Communication Design // Web Design
+email: riceshiro@hotmail.com
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: About Me, url: '#About-me'}
+- {name: Work, url: '#Work'}
+- {name: Contact, url: '#Contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Provide a description for your website to make it visible to search engines.'
+  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+  My name is **Rice Mi**, a passionate Visual communication 
+  designer & Illustrator with several years of experience and sharp approach to print & digital with fresh, innovative solutions.
+  I am based in **Melbourne** and currently working as freelance for people all over the world.
+  Anyone is Welcomed to contact me and we can work together.
+
+skills:
+- {name: Adobe Illustrator, value: '10'}
+- {name: Adobe Photoshop, value: '9'}
+- {name: Adobe Indesign, value: '9'}
+- {name: Adobe Dreamweaver, value: '6'}
+- {name: Adobe Afrer Effect, value: '6'}
+- {name: Adobe Premiere, value: '6'}
+- {name: Google SketchUp, value: '7'}
+- {name: Jekyll, value: '7'}
+
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: Stereok, folder: 'project1'}
+- {name: Book, folder: 'project2'}
+- {name: Booklet, folder: 'project3'}
+- {name: Magazine, folder: 'project4'}
+- {name: Website, folder: 'project5'}
+- {name: Typo, folder: 'project6'}
+- {name: Wayfinding, folder: 'project7'}
+- {name: Cards, folder: 'project8'}
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'facebook', link: 'https://www.facebook.com/rice.yan'}
+- {icon: 'linkedin', link: 'https://au.linkedin.com/pub/mingyan-mi/92/836/503/zh-cn'}
+- {icon: 'behance', link: 'https://www.behance.net/riceshirob5c1'}
+# can be: 'facebook' / 'linkedin' / 'behance'
+
+
+
+
